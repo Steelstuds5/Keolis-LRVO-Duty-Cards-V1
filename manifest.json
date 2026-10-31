@@ -1,7 +1,7 @@
 {
- "id": "duty-card-live",
- "name": "Duty Card Live",
- "short_name": "Duty Card",
+ "id": "duty-card-live-v1",
+ "name": "Duty Card Live 1",
+ "short_name": "Duty Card 1",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
